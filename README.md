@@ -22,5 +22,6 @@ Some private layouts and signatures remain inferred. There are 318 unresolved at
 
 ### File Hashes
 
-WdFilter.sys SHA256: `653eb082c2820cee7c7043af89362ed343ce61e9615fc7f0b3ca7ec025d64aba`
+WdFilter.sys SHA256: `653eb082c2820cee7c7043af89362ed343ce61e9615fc7f0b3ca7ec025d64aba` 
+
 WdFilter.pdb SHA256: `3ba8f1a1372062eb305498365a3743854a06f144dcd211446c5cf90f3251e0ea`
